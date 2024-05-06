@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">The Tamagotchi Application</string>
+    <string name="Title">WELCOME TO THE TAMAGOTCHI APP</string>
+    <string name="LoginButton">Press Start</string>
+    <string name="pet_eating">Your pet is almost done eating. You can go back to the starting page.</string>
+    <string name="returnbutton01">Return</string>
+    <string name="pet_cleaning">Your pet is almost being cleaned up. You can go back to the Starting Page.</string>
+    <string name="returnbutton02">Return</string>
+    <string name="pet_playing">Your pet is almost finished playing. You can go back to the starting page.</string>
+    <string name="returnbutton03">Return</string>
+    <string name="feed_pet">Feed</string>
+    <string name="clean_pet">Clean</string>
+    <string name="play_pet">Play</string>
+    <string name="hunger">Hunger</string>
+    <string name="hygiene">hygiene</string>
+    <string name="happiness">Happiness</string>
+    <string name="total_hunger">/100%</string>
+    <string name="total_hygiene">/100%</string>
+    <string name="total_mood">/100%</string>
+    <string name="resulthunger">ResultHunger</string>
+    <string name="resulthygiene">ResultHygiene</string>
+    <string name="resultmood">ResultMood</string>
+    <string name="pet_status_update">Pet Status Update</string>
+    <string name="hunger_status">Hunger Status</string>
+    <string name="hygienestatus">HygieneStatus</string>
+    <string name="mood_status">Mood Status</string>
+</resources>
